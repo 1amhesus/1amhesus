@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 1amhesus
+- 👋 Hello, I’m 1amhesus
 - 👀 I’m enthusiastic about Bitcoin, Stacks, Hyperledger.
 - 🌱 I’m currently learning Clarity language to build Dapp on Bitcoin.
 
